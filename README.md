@@ -13,28 +13,93 @@
 
 </div>
 
-## Hi, I'm Alexander - solo game developer
+<br/>
 
-I build games in **Unity3D / C#** since 2016, from a raw idea to a release-ready build. The person you talk to is the person who writes the code - no outsourcing, no handoffs.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-**What I do:**
+## Hi, I'm Alexander
 
-- Full-cycle game development for PC, Android and WebGL
-- Game mechanics, systems and editor tools
-- Service integration: ads, authentication, leaderboards, cloud saves
-- Optimization and profiling for low-end devices
-- Fixing and finishing existing projects
+Solo game developer. I build games in **Unity3D / C#** since 2016 - from a raw idea to a release-ready build.
 
-## Featured
+The person you talk to is the person who writes the code. No outsourcing, no handoffs.
 
-| Project | What it is |
+</td>
+<td width="40%" valign="top">
+
+## Player card
+
+| | |
 |---|---|
-| [BUZZ QUIZ](https://store.steampowered.com/app/4091990/BUZZ_QUIZ/) | My own product: quiz creation platform with a built-in editor, Steam Workshop publishing and video export for YouTube / TikTok. Steam release - Q4 2026 |
-| [passq.dev](https://passq.dev) | My interactive portfolio: a retro game-styled website with playable mini-games, achievements and XP system. React + TypeScript, deployed on Cloudflare |
+| **Class** | Unity Developer |
+| **Level** | 10 years XP |
+| **Platforms** | PC / Android / WebGL |
+| **Status** | Open for quests |
 
-**Shipped client games** (solo Unity development): horror quest published on Steam by **Alawar**, farm simulator with a built-in casino, tactical strategy, physics arcade, music trivia with in-app content bundles, piano learning app with MIDI keyboard support.
+</td>
+</tr>
+</table>
 
-## Beyond games
+## Skill tree
+
+<div align="center">
+
+![GameDev](https://img.shields.io/badge/GAMEPLAY%20SYSTEMS-58A6FF?style=flat-square)
+![FullCycle](https://img.shields.io/badge/FULL--CYCLE%20GAMEDEV-58A6FF?style=flat-square)
+![EditorTools](https://img.shields.io/badge/EDITOR%20TOOLS-58A6FF?style=flat-square)
+![Optimization](https://img.shields.io/badge/OPTIMIZATION%20%26%20PROFILING-58A6FF?style=flat-square)
+
+![Ads](https://img.shields.io/badge/ADS-FF5722?style=flat-square)
+![Auth](https://img.shields.io/badge/AUTHENTICATION-FF5722?style=flat-square)
+![Leaderboards](https://img.shields.io/badge/LEADERBOARDS-FF5722?style=flat-square)
+![CloudSaves](https://img.shields.io/badge/CLOUD%20SAVES-FF5722?style=flat-square)
+
+![Steam](https://img.shields.io/badge/STEAM%20SDK%20%26%20WORKSHOP-8A2BE2?style=flat-square)
+![MIDI](https://img.shields.io/badge/MIDI%20INTEGRATION-8A2BE2?style=flat-square)
+![BigNumber](https://img.shields.io/badge/CUSTOM%20BIG--NUMBER%20MATH-8A2BE2?style=flat-square)
+
+</div>
+
+## Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### BUZZ QUIZ
+[![Steam](https://img.shields.io/badge/STEAM-WISHLIST%20NOW-1b2838?style=flat-square&logo=steam)](https://store.steampowered.com/app/4091990/BUZZ_QUIZ/)
+
+My own product: a quiz creation platform with a built-in editor, Steam Workshop publishing and video export for YouTube / TikTok.
+
+**Release - Q4 2026**
+
+</td>
+<td width="50%" valign="top">
+
+### PASSQ.DEV
+[![Live](https://img.shields.io/badge/LIVE-passq.dev-FF5722?style=flat-square)](https://passq.dev)
+
+My interactive portfolio: a retro game-styled website with playable mini-games, achievements and an XP system.
+
+**React + TypeScript + Cloudflare**
+
+</td>
+</tr>
+</table>
+
+**Shipped client games** - all solo Unity development:
+
+| Genre | Highlight |
+|---|---|
+| Horror quest | Published on Steam by **Alawar** |
+| Farm simulator | Built-in casino with 20+ slot machines |
+| Tactical strategy | AI-driven point-control battles, 20+ unit types |
+| Physics arcade | Momentum-based gameplay, persistent level upgrades |
+| Music trivia | Data-driven content bundles with in-app purchases |
+| Piano learning app | MIDI keyboard support, published on Steam |
+
+## Side quests
 
 - **Interactive exhibitions** - touch-screen installations for museums and brand events, built to run unattended for weeks
 - **Rust game server** - my own server with 50+ custom C# plugins and a live player community
@@ -47,24 +112,6 @@ I build games in **Unity3D / C#** since 2016, from a raw idea to a release-ready
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/passq-work/passq-work/output/github-contribution-grid-snake.svg"/>
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/passq-work/passq-work/output/github-contribution-grid-snake.svg"/>
 </picture>
-
-<details>
-<summary><b>?? SECRET AREA ??</b> (click to enter)</summary>
-<br/>
-
-```
-      ^  ^       |^|
-     /|\/|\      | |
-    PRESS THE CODE BELOW ON THE MAIN PAGE
-    OF ANY GITHUB REPO... NOTHING HAPPENS,
-    BUT YOU FELT LIKE A HACKER FOR A SECOND
-```
-
-**`UP UP DOWN DOWN LEFT RIGHT LEFT RIGHT B A`**
-
-Achievement unlocked: **RETRO MASTER** - you know the code. Respect.
-
-</details>
 
 ---
 
